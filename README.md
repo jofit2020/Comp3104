@@ -2,6 +2,4 @@
 
 # GitHub Action Status Badge
 
-[![CI](https://github.com/jofit2020/COMP3104/
-actions/workflows/ci.yml/badge.svg)]
-(https://github.com/jofit2020/COMP3104/actions/workflows/ci.yml)
+[![CI](https://github.com/jofit2020/COMP3104/actions/workflows/ci.yml/badge.svg)](https://github.com/jofit2020/COMP3104/actions/workflows/ci.yml)
